@@ -1,11 +1,31 @@
 # Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
 
 one:
-  locale: MyString
-  key: MyString
-  value: MyText
+  locale: en
+  key: first
+  value: First
 
 two:
-  locale: MyString
-  key: MyString
-  value: MyText
+  locale: de
+  key: first
+  value: Erster
+
+three:
+  locale: en
+  key: second
+  value: Second
+
+four:
+  locale: de
+  key: second
+  value: Zweiter
+
+five:
+  locale: en
+  key: third
+  value: Third
+
+six:
+  locale: de
+  key: third
+  value: Dritter
